@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    place-content: space-evenly;
+    padding: 1rem;
+    background-color: lightgray;
+    border-radius: 0px 0px 16px 16px;
+}
+.active {
+    color: red;
+}

@@ -1,0 +1,14 @@
+.user {
+    padding: 0 1rem;
+}
+.button {
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem;
+    background-color: blanchedalmond;
+    margin: 0.5rem;
+}
+.button-text {
+    text-decoration: none;
+    color: black;
+}
